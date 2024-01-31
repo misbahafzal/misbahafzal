@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 🐥
 
 <!--
 **misbahafzal/misbahafzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🐱My Github stats:
+### 🐥 My Github stats:
 ![Misbah's github stats](https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
