@@ -48,7 +48,9 @@ This is **Misbah Afzal** 👧 💻, a FullStack Developer with 6 years 🔥 of S
 ### ✍️ A Developer's Quote for You ❤
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p id="socialIcons" align="center">
+### How to reach out?
+
+<p id="socialIcons" align="left">
     <a href="https://www.linkedin.com/in/misbahafzalk/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
     </a>
