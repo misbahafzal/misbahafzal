@@ -1,27 +1,48 @@
-### Hi there 👋 🐥
+### Hi, Welcome 👋 
 
-<!--
-**misbahafzal/misbahafzal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is **Misbah Afzal** 👧 💻, a FullStack Developer with 6 years 🔥 of Software Development Experience. I hold a bachelors degree in **Computer Enginnering** and masters in **Data Science** 🎓
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on JavaScript based technologies like ReactJS, Angular, NesTJS etc.
+- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, LLM models and Data Science. 
+- 👯 I’m looking to collaborate on some open-source projects.
+- 💬 I am a Book Reader, I love to read books 📕 and write whatever I like. Recently, I have finished reading **Atomic Habits** by James Clear.
+- 🥂 I love to talk about life and productivity hacks.
+- 📫 Let's connect over [LinkedIn](https://www.linkedin.com/in/misbahafzalk/)
+- 🫧 Ask me about: ReactJS, JavaScript, Machine Learning, Data Science, Productivity hacks and science of habits 💕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-### 🐥 My Github stats:
-![Misbah's github stats](https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+[![](https://github-profile-trophy.vercel.app/?username=misbahafzal&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🐥 Checkout My Github Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=misbahafzal&theme=dark&hide_border=false&card_width=1000)
+
+<a href="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=320" />
+</a>
 
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+### 🍹 Featured Repositories:
+<a href="https://github.com/misbahafzal/Coding_Challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=Coding_Challenges&show_owner=true" />
+</a>
+<a href="https://github.com/misbahafzal/Web_Scrapping_Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=Web_Scrapping_Projects&show_owner=true" />
+</a>
+<a href="https://github.com/misbahafzal/Machine_Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=Machine_Learning&show_owner=true" />
+</a>
+<a href="https://github.com/misbahafzal/=ReactJS-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=ReactJS-Projects&show_owner=true" />
+</a>
 
-----
+### ✍️ A Developer's Quote for You ❤
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 Credit: [Misbah Afzal](https://github.com/misbahafzal)
+
+---
