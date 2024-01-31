@@ -48,6 +48,20 @@ This is **Misbah Afzal** 👧 💻, a FullStack Developer with 6 years 🔥 of S
 ### ✍️ A Developer's Quote for You ❤
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p id="socialIcons" align="center">
+    <a href="https://www.linkedin.com/in/misbahafzalk/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/misbahafzal_k" alt="HackerRank">
+        <img src="https://img.shields.io/badge/-HackerRank-3a424f?style=flat-square&logo=hackerrank" />
+    </a>
+  
+</p>
+
+[github]: https://github.com/misbahafzal
+[linkedin]: https://www.linkedin.com/in/misbahafzalk/
+[hackerrank]: https://www.hackerrank.com/profile/misbahafzal_k
+
 Credit: [Misbah Afzal](https://github.com/misbahafzal)
 
 ---
