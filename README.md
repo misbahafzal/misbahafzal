@@ -27,7 +27,7 @@ This is **Misbah Afzal** 👧 💻, a FullStack Developer with 6 years 🔥 of S
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=300" />
 </a>
 
 
