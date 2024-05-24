@@ -1,7 +1,8 @@
-### Hi, Welcome to My GitHub Profile! 👋
----
 
-This is **Misbah Afzal** 👧 💻, a FullStack Developer with 6 years 🔥 of Software Development Experience. I hold a bachelors in **Computer Enginnering** and masters in **Data Science** 🎓
+![Header](https://github.com/misbahafzal/misbahafzal/assets/38649139/6f8ca6f1-666f-4790-88a8-0294f4c669fb)
+
+
+This is **Misbah Afzal** 👧 💻, a FullStack Developer with 7 years 🔥 of Software Development Experience. I hold a bachelors in **Computer Enginnering** and masters in **Data Science** 🎓
 
 <img src="https://github.com/misbahafzal/misbahafzal/assets/38649139/76ae7d92-07e2-46a6-a137-e7c2810569e7" align="right" height="340" width="340">
 
