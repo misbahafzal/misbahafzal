@@ -33,17 +33,17 @@ This is **Misbah Afzal** 👧 💻, a FullStack Developer with 7 years 🔥 of S
 
 
 ### 🍹 Featured Repositories:
-<a href="https://github.com/misbahafzal/Coding_Challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=Coding_Challenges&show_owner=true" />
+<a href="https://github.com/misbahafzal/coding-challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=coding-challenges&show_owner=true" />
 </a>
-<a href="https://github.com/misbahafzal/Web_Scrapping_Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=Web_Scrapping_Projects&show_owner=true" />
+<a href="https://github.com/misbahafzal/web-scrapping-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=web-scrapping-projects&show_owner=true" />
 </a>
-<a href="https://github.com/misbahafzal/Machine_Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=Machine_Learning&show_owner=true" />
+<a href="https://github.com/misbahafzal/machine-learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=machine-learning&show_owner=true" />
 </a>
-<a href="https://github.com/misbahafzal/=ReactJS-Projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=ReactJS-Projects&show_owner=true" />
+<a href="https://github.com/misbahafzal/=reactjs-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=reactjs-projects&show_owner=true" />
 </a>
 
 ### ✍️ A Developer's Quote for You ❤
