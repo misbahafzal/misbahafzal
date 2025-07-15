@@ -36,11 +36,8 @@ This is **Misbah Afzal** 👧 💻, a FullStack Developer with 7 years 🔥 of S
 <a href="https://github.com/misbahafzal/coding-challenges">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=coding-challenges&show_owner=true" />
 </a>
-<a href="https://github.com/misbahafzal/web-scrapping-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=web-scrapping-projects&show_owner=true" />
-</a>
-<a href="https://github.com/misbahafzal/machine-learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=machine-learning&show_owner=true" />
+<a href="https://github.com/misbahafzal/articles-resources">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=articles-resources&show_owner=true" />
 </a>
 <a href="https://github.com/misbahafzal/=reactjs-projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=reactjs-projects&show_owner=true" />
