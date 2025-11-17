@@ -39,8 +39,8 @@ This is **Misbah Afzal** 👧 💻, a FullStack Developer with 7 years 🔥 of S
 <a href="https://github.com/misbahafzal/articles-resources">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=articles-resources&show_owner=true" />
 </a>
-<a href="https://github.com/misbahafzal/=reactjs-projects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=reactjs-projects&show_owner=true" />
+<a href="https://github.com/misbahafzal/resume-keyword-analyzer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=resume-keyword-analyzer&show_owner=true" />
 </a>
 
 ### ✍️ A Developer's Quote for You ❤
