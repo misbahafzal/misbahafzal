@@ -53,12 +53,12 @@ AWS · GCP · Docker
 
 ---
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&hide_border=true&theme=dark" />
+<p align="left">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&hide_border=true&theme=dark" />
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&hide_border=true&theme=dark" />
+<p align="left">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&hide_border=true&theme=react&hide_title=false&langs_count=6&hide_progress=false&card_width=400" />
 </p>
 
 ---
