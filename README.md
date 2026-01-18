@@ -17,35 +17,6 @@ This is **Misbah Afzal** 👧 💻, a FullStack Developer with 7 years 🔥 of S
 - 🫧 Ask me about: ReactJS, JavaScript, Machine Learning, Data Science, Productivity hacks and science of habits 💕
 
 ---
-
-## 🏆 GitHub Trophies
-[![](https://github-profile-trophy.vercel.app/?username=misbahafzal&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 🐥 Checkout My Github Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=misbahafzal&theme=dark&hide_border=false&card_width=1000)
-
-<a href="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&theme=dracula&hide_border=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=300" />
-</a>
-
-
-### 🍹 Featured Repositories:
-<a href="https://github.com/misbahafzal/coding-challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=coding-challenges&show_owner=true" />
-</a>
-<a href="https://github.com/misbahafzal/articles-resources">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=articles-resources&show_owner=true" />
-</a>
-<a href="https://github.com/misbahafzal/resume-keyword-analyzer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=misbahafzal&repo=resume-keyword-analyzer&show_owner=true" />
-</a>
-
-### ✍️ A Developer's Quote for You ❤
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### How to reach out?
 
 <p id="socialIcons" align="left">
@@ -61,7 +32,3 @@ This is **Misbah Afzal** 👧 💻, a FullStack Developer with 7 years 🔥 of S
 [github]: https://github.com/misbahafzal
 [linkedin]: https://www.linkedin.com/in/misbahafzalk/
 [hackerrank]: https://www.hackerrank.com/profile/misbahafzal_k
-
-Credit: [Misbah Afzal](https://github.com/misbahafzal)
-
----
