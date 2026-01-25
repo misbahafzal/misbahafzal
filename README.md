@@ -52,7 +52,22 @@ PostgreSQL · MySQL · MongoDB · Elasticsearch
 AWS · GCP · Docker  
 
 ---
+### Open Source Contributions
+I maintain open-source npm packages:
 
+### 🌟 [env-safe-ts](https://www.npmjs.com/package/env-safe-ts) 
+[![npm version](https://img.shields.io/npm/v/env-safe-ts.svg)](https://www.npmjs.com/package/env-safe-ts) 
+[![npm downloads](https://img.shields.io/npm/dm/env-safe-ts.svg)](https://www.npmjs.com/package/env-safe-ts)
+
+A TypeScript utility to validate environment variables, throw errors early if required variables are missing, and enforce schema validation. Useful for Node.js and full-stack projects.
+
+### 🌟 [medium-article-api](https://www.npmjs.com/package/medium-article-api)
+[![npm version](https://img.shields.io/npm/v/medium-article-api.svg)](https://www.npmjs.com/package/medium-article-api) 
+[![npm downloads](https://img.shields.io/npm/dm/medium-article-api.svg)](https://www.npmjs.com/package/medium-article-api)
+
+A npm package designed to fetch user details and articles from Medium. This package provides a simple and efficient way to easily integrate Medium content into their applications.
+
+---
 <p align="left">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&hide_border=true&theme=dark" />
 </p>
