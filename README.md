@@ -25,7 +25,7 @@ from the pixel in the browser to the LLM call behind the API.
 - **Integrate LLMs into real products:** I don't train models, I put them to work. I wire LLM APIs into production apps with RAG, prompt design, structured outputs and guardrails, and make them dependable enough for real users.
 - **Treat AI features like any other feature:** cost, latency, fallbacks and failure modes are designed up front, and AI behaviour is covered by tests and evals, not vibes.
 - **Move faster with AI-assisted engineering:** I use LLM tooling every day to prototype, refactor and review, while keeping quality and ownership with me.
-- **Teach what I learn:** I explain system design and design patterns in writing, with diagrams and runnable code.
+- **Teach what I learn:** I explain system design, design patterns and productivity in writing, with diagrams and runnable code.
 
 ## 🤖 AI & LLM focus
 
@@ -71,8 +71,19 @@ from the pixel in the browser to the LLM call behind the API.
 
 ## ✍️ Writing
 
-I write about system design, design patterns and the trade-offs behind real engineering decisions.
-Read more on [Medium →](https://medium.com/@misbahafzal.k)
+I write on [Medium](https://medium.com/@misbahafzal.k) about:
+- **Engineering:** system design, design patterns and the trade-offs behind real decisions.
+- **Productivity:** habits, focus and getting meaningful work done, drawn from what I read and what I practice.
+
+## 📚 Books that shaped how I work
+
+I read widely on habits, focus and mindset, and apply the ideas to how I plan and ship work.
+
+- *Atomic Habits*
+- *The Power of Habits*
+- *The 80/20 Principle*
+- *The 12 Week Year*
+- *The Art of Positive Thinking*
 
 ---
 
