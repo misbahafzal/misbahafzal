@@ -71,19 +71,12 @@ from the pixel in the browser to the LLM call behind the API.
 
 ## ✍️ Writing
 
-I write on [Medium](https://medium.com/@misbahafzal.k) about:
-- **Engineering:** system design, design patterns and the trade-offs behind real decisions.
-- **Productivity:** habits, focus and getting meaningful work done, drawn from what I read and what I practice.
+I write on [Medium](https://medium.com/@misbahafzal.k) about system design, design patterns, engineering trade-offs, productivity and focus.
 
-## 📚 Books that shaped how I work
+## 🎓 Education
 
-I read widely on habits, focus and mindset, and apply the ideas to how I plan and ship work.
-
-- *Atomic Habits*
-- *The Power of Habits*
-- *The 80/20 Principle*
-- *The 12 Week Year*
-- *The Art of Positive Thinking*
+- **Master's in Data Science**
+- **Bachelor's in Computer Systems Engineering**
 
 ---
 
