@@ -1,6 +1,6 @@
 <h1 align="center">Misbah Afzal</h1>
 
-<h3 align="center">Senior Full Stack Engineer @ Stellic</h3>
+<h3 align="center">Senior Full Stack Engineer @ Stellic · 8+ years of experience</h3>
 
 <p align="center">
 I turn complex, data-heavy problems into fast, reliable products,<br/>
@@ -18,7 +18,9 @@ from the pixel in the browser to the queue behind the API.
 
 ## 🎯 What I do
 
-- **Ship production full-stack products** with React, Angular, NestJS and Node.js, owning features from design through deployment.
+- **Own features end to end:** 8+ years taking work from idea and design through implementation, release and production support, with React, Angular, NestJS and Node.js.
+- **Build for reliability:** I design for failure up front, with validated configuration, clear error handling, observability and safe rollouts, so features keep working under real-world load.
+- **Prove correctness with end-to-end tests:** I back every feature with e2e tests that exercise real user flows across the UI, API and data layer, so regressions get caught before users see them.
 - **Design for scale and real time:** event pipelines, WebSockets, queues and caching with Kafka and Redis.
 - **Bring data and AI into products:** data science background, plus RAG services and LLM-powered tools.
 - **Teach what I learn:** I explain system design and design patterns in writing, with diagrams and runnable code.
@@ -51,7 +53,6 @@ from the pixel in the browser to the queue behind the API.
 | [**realtime-log-analytics**](https://github.com/misbahafzal/realtime-log-analytics) | Ingests logs from many sources, aggregates them in real time and serves live dashboards. Built around workers, queues, retention and metrics. |
 | [**realtime-chat-app**](https://github.com/misbahafzal/realtime-chat-app) | Full-stack chat that tackles the hard parts: presence, message ordering, delivery guarantees and persistence. |
 | [**design-patterns-made-easy**](https://github.com/misbahafzal/design-patterns-made-easy) | All 23 design patterns with visual diagrams, analogies and runnable JavaScript. |
-| [**truevoltai**](https://github.com/misbahafzal/truevoltai) | AI-powered utility bill decoder. |
 | [**ai-rag-service**](https://github.com/misbahafzal/ai-rag-service) | Retrieval-augmented generation service in Python. |
 | [**log-sage**](https://github.com/misbahafzal/log-sage) | TypeScript tooling for making sense of logs. |
 
