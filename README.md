@@ -1,10 +1,10 @@
 <h1 align="center">Misbah Afzal</h1>
 
-<h3 align="center">Senior Full Stack Engineer @ Stellic · 8+ years of experience</h3>
+<h3 align="center">Senior Full Stack AI Engineer @ Stellic · 8+ years of experience</h3>
 
 <p align="center">
-I turn complex, data-heavy problems into fast, reliable products,<br/>
-from the pixel in the browser to the queue behind the API.
+I turn complex, data-heavy problems into fast, reliable, AI-powered products,<br/>
+from the pixel in the browser to the LLM call behind the API.
 </p>
 
 <p align="center">
@@ -22,8 +22,14 @@ from the pixel in the browser to the queue behind the API.
 - **Build for reliability:** I design for failure up front, with validated configuration, clear error handling, observability and safe rollouts, so features keep working under real-world load.
 - **Prove correctness with end-to-end tests:** I back every feature with e2e tests that exercise real user flows across the UI, API and data layer, so regressions get caught before users see them.
 - **Design for scale and real time:** event pipelines, WebSockets, queues and caching with Kafka and Redis.
-- **Bring data and AI into products:** data science background, plus RAG services and LLM-powered tools.
+- **Integrate LLMs into real products:** I don't train models, I put them to work. I wire LLM APIs into production apps with RAG, prompt design, structured outputs and guardrails, and make them dependable enough for real users.
+- **Treat AI features like any other feature:** cost, latency, fallbacks and failure modes are designed up front, and AI behaviour is covered by tests and evals, not vibes.
+- **Move faster with AI-assisted engineering:** I use LLM tooling every day to prototype, refactor and review, while keeping quality and ownership with me.
 - **Teach what I learn:** I explain system design and design patterns in writing, with diagrams and runnable code.
+
+## 🤖 AI & LLM focus
+
+`LLM API integration` · `RAG` · `Prompt engineering` · `Structured outputs` · `Embeddings & vector search` · `AI-assisted development` · `Evals & testing AI features`
 
 ## 🛠️ Toolbox
 
@@ -53,7 +59,7 @@ from the pixel in the browser to the queue behind the API.
 | [**realtime-log-analytics**](https://github.com/misbahafzal/realtime-log-analytics) | Ingests logs from many sources, aggregates them in real time and serves live dashboards. Built around workers, queues, retention and metrics. |
 | [**realtime-chat-app**](https://github.com/misbahafzal/realtime-chat-app) | Full-stack chat that tackles the hard parts: presence, message ordering, delivery guarantees and persistence. |
 | [**design-patterns-made-easy**](https://github.com/misbahafzal/design-patterns-made-easy) | All 23 design patterns with visual diagrams, analogies and runnable JavaScript. |
-| [**ai-rag-service**](https://github.com/misbahafzal/ai-rag-service) | Retrieval-augmented generation service in Python. |
+| [**ai-rag-service**](https://github.com/misbahafzal/ai-rag-service) | Retrieval-augmented generation service in Python that grounds LLM answers in your own data. |
 | [**log-sage**](https://github.com/misbahafzal/log-sage) | TypeScript tooling for making sense of logs. |
 
 ## 📦 Published on npm
