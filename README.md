@@ -1,85 +1,57 @@
-
-<img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/18ff8169-bb0f-45c8-81a8-db930ee42a24" />
-
-<h1 align="center">Hi, I’m Misbah Afzal 👋</h1>
+<h1 align="center">Hi, I'm Misbah Afzal 👋</h1>
 
 <p align="center">
-<strong>Senior Software Engineer</strong><br/>
-Building scalable web applications with strong systems foundations
+<strong>Senior Full Stack Software Engineer @ Stellic</strong><br/>
+React · Angular · NestJS · Node.js · Data Science<br/>
+📍 Karachi, Pakistan · 🎓 B.E. Computer Engineering
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/misbahafzalk/">LinkedIn</a> ·
 <a href="https://medium.com/@misbahafzal.k">Medium</a> ·
-<a href="https://github.com/misbahafzal?tab=repositories">GitHub</a>
+<a href="https://leetcode.com/u/user6423f/">LeetCode</a> ·
+<a href="https://www.hackerrank.com/profile/misbahafzal_k">HackerRank</a>
 </p>
 
 ---
 
-### ⚡ Rapid Fire
-💼 **Currently working on:**  
-Building and scaling frontend-heavy web applications with real-time and data-driven features
+## 👨‍💻 About
 
-💬 **Ask me about:**  
-JavaScript / TypeScript · Angular · React · Frontend architecture · System design trade-offs
+I build scalable, data-driven web applications end to end, from frontend architecture to backend services and real-time pipelines. I write about engineering fundamentals, design patterns and system design trade-offs on [Medium](https://medium.com/@misbahafzal.k).
 
-✍️ **I write about:**  
-Engineering fundamentals, system design, and real-world trade-offs on <a href="https://medium.com/@misbahafzal.k">Medium</a>
+## ⚙️ Tech Stack
 
-🧠 **Problem solving:**  
-<a href="https://leetcode.com/u/user6423f/">LeetCode</a> · <a href="https://www.hackerrank.com/profile/misbahafzal_k">HackerRank</a>
+| | |
+|---|---|
+| **Frontend** | React, Angular, AngularJS |
+| **Languages** | TypeScript, JavaScript, Python |
+| **Backend & Systems** | Node.js, NestJS, Kafka, Redis, WebSockets |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Elasticsearch |
+| **Cloud & Infra** | AWS, GCP, Docker |
+| **Data & AI** | Machine learning, web scraping, RAG |
 
-⚡ **Fun fact:**  
-I get unusually calm when debugging complex issues.
+## 🚀 Featured Projects
 
----
+| Project | Description |
+|---|---|
+| [design-patterns-made-easy](https://github.com/misbahafzal/design-patterns-made-easy) | All 23 design patterns explained with diagrams, analogies and runnable JavaScript. Companion to my Medium series. |
+| [realtime-log-analytics](https://github.com/misbahafzal/realtime-log-analytics) | Multi-source log ingestion, real-time aggregation, queries and dashboards, with a scale-aware design (workers, queues, retention). |
+| [realtime-chat-app](https://github.com/misbahafzal/realtime-chat-app) | Full-stack chat showing presence, message ordering, delivery guarantees and persistence. |
+| [truevoltai](https://github.com/misbahafzal/truevoltai) | AI-powered utility bill decoder (Python). |
+| [ai-rag-service](https://github.com/misbahafzal/ai-rag-service) | Retrieval-augmented generation service (Python). |
+| [log-sage](https://github.com/misbahafzal/log-sage) | Log analysis tooling in TypeScript. |
 
-### ⚙️ Tech Stack
+## 📦 Open Source (npm)
 
-**Frontend**  
-React · AngularJS · Angular (2+)  
+| Package | Description | |
+|---|---|---|
+| [env-safe-ts](https://www.npmjs.com/package/env-safe-ts) | Validate environment variables with schema checks and fail early when required values are missing. | [![npm](https://img.shields.io/npm/dm/env-safe-ts.svg)](https://www.npmjs.com/package/env-safe-ts) |
+| [medium-article-api](https://www.npmjs.com/package/medium-article-api) | Fetch Medium user details and articles for use in your own apps. | [![npm](https://img.shields.io/npm/dm/medium-article-api.svg)](https://www.npmjs.com/package/medium-article-api) |
 
-**Languages**  
-TypeScript · JavaScript · Python  
+## ✍️ Writing
 
-**Backend & Systems**  
-Node.js · NestJS · Kafka · Redis · WebSockets  
-
-**Databases**  
-PostgreSQL · MySQL · MongoDB · Elasticsearch  
-
-**Cloud & Infra**  
-AWS · GCP · Docker  
-
----
-### Open Source Contributions
-I maintain open-source npm packages:
-
-### 🌟 [env-safe-ts](https://www.npmjs.com/package/env-safe-ts) 
-[![npm version](https://img.shields.io/npm/v/env-safe-ts.svg)](https://www.npmjs.com/package/env-safe-ts) 
-[![npm downloads](https://img.shields.io/npm/dm/env-safe-ts.svg)](https://www.npmjs.com/package/env-safe-ts)
-
-A TypeScript utility to validate environment variables, throw errors early if required variables are missing, and enforce schema validation. Useful for Node.js and full-stack projects.
-
-### 🌟 [medium-article-api](https://www.npmjs.com/package/medium-article-api)
-[![npm version](https://img.shields.io/npm/v/medium-article-api.svg)](https://www.npmjs.com/package/medium-article-api) 
-[![npm downloads](https://img.shields.io/npm/dm/medium-article-api.svg)](https://www.npmjs.com/package/medium-article-api)
-
-A npm package designed to fetch user details and articles from Medium. This package provides a simple and efficient way to easily integrate Medium content into their applications.
-
----
-<p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=misbahafzal&show_icons=true&hide_border=true&theme=dark" />
-</p>
-
-<p align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahafzal&layout=compact&hide_border=true&theme=react&hide_title=false&langs_count=6&hide_progress=false&card_width=400" />
-</p>
+I publish articles on design patterns, system design and engineering fundamentals: [medium.com/@misbahafzal.k](https://medium.com/@misbahafzal.k)
 
 ---
 
-<p align="center">
-<sub>Systems over hype · Clarity over cleverness</sub>
-</p>
-
-
+<p align="center"><sub>Systems over hype · Clarity over cleverness</sub></p>
