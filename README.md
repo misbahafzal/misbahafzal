@@ -70,4 +70,12 @@ Read more on [Medium →](https://medium.com/@misbahafzal.k)
 
 ---
 
+## 🎁 Souvenir for you
+
+Thank you for visiting my profile and reading it to the end. Here's a little gift: a **free design patterns cheat sheet**.
+
+👉 [**Download the Design Patterns Cheat Sheet (PDF)**](https://github.com/misbahafzal/design-patterns-made-easy/raw/main/design-patterns-cheat-sheet.pdf)
+
+---
+
 <p align="center"><sub>Systems over hype · Clarity over cleverness</sub></p>
